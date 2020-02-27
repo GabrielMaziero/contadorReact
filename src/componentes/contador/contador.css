@@ -1,0 +1,12 @@
+.contador-titulo{
+    text-align: center;
+
+}
+
+.contador-aumentar{
+    margin-right: 10px;
+    /* cursor: pointer; */
+}
+
+.contador-diminuir{
+}
